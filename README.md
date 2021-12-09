@@ -50,7 +50,15 @@ https://www.youtube.com/watch?v=GQwp6M2q1NE&t=111s&ab_channel=UltimateHistoryofC
 ## Logiciels de modélisation 3D
 - Autodesk (développé en 1982 par John Walker)
 - Blender
+
+
+
+![3d](media/th.jfif) 
 - Maya
+
+
+
+![3d](media/th.jfif) 
 
 
 
