@@ -1,5 +1,5 @@
 # Démonstration technique : 
-## Le CGI (computer-generatied imagery)
+## Le CGI (computer-generated imagery)
 
 ![3d](media/3DS-Max-new-1024x519.jpeg)
 
