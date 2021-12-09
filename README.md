@@ -7,3 +7,5 @@
 - La création de prototype pour l'industrialisation d'un produit.
 - La conception de jeu vidéo.
 - L'utilisation de la 3d dans le cinéma (computer-generated imagery, CGI)
+## L'histoire du CGI dans les films.
+### La première apparition du CGI.
